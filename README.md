@@ -1,4 +1,4 @@
 # RA
 This is my first git repository
 <br>
-AUTHOR- RIDDHI
+AUTHOR- RIDDHI MISTRY KHAN
